@@ -1,0 +1,9 @@
+﻿Basic command line C++ commands
+
+Compile file:
+g++ <file_name>.cpp
+Compile file with custom name
+g++ <file_name>.cpp -o <compiled_name>
+
+Run file:
+./<compiled_file_name>
